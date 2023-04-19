@@ -12,7 +12,10 @@ video{
   float: left;
   width: 50%;
 }
-
+model-viewer {
+  width: 1000px;
+  height: 800px;
+}
 /* Clear floats after the columns */
 .row:after {
   content: "";
